@@ -1,0 +1,2 @@
+/Users/amitsinha/devzignProjects/flutter_app/heybaxi_user/android/app/.cxx/Debug/m2s4x2u6/x86/CMakeFiles/edit_cache.dir
+/Users/amitsinha/devzignProjects/flutter_app/heybaxi_user/android/app/.cxx/Debug/m2s4x2u6/x86/CMakeFiles/rebuild_cache.dir
