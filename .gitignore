@@ -30,7 +30,6 @@ windows/runner/Release/
 web/generated_plugin_registrant.dart
 
 # VS Code & IntelliJ
-.vscode/
 .idea/
 *.iml
 
@@ -44,3 +43,7 @@ web/generated_plugin_registrant.dart
 *.lock
 *.log
 *.tmp
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
